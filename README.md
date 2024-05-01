@@ -2,7 +2,7 @@
 This is Ylib
 At present, the official documentation of this module is only available in Chinese, if you are a foreign language user, use translation software to make do with it.
 
-devtoolstheno：
+# 当前:devtoolstheno
 # 使用说明
 
 禁止打开DevTools的一个简单的js库
