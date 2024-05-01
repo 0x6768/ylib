@@ -1,6 +1,6 @@
 # ylib
 This is Ylib
-At present, the official documentation of this module is only available in Chinese, if you are a foreign language user, use translation software to make do with it.
+## At present, the official documentation of this module is only available in Chinese, if you are a foreign language user, use translation software to make do with it.
 
 # 当前:devtoolstheno
 # 使用说明
@@ -26,20 +26,20 @@ At present, the official documentation of this module is only available in Chine
 </script>
 ```
 ## 你可以使用以下网站生成sha256数值
-https://www.jyshare.com/front-end/706/
+https://www.jyshare.com/front-end/706/ <br>
 https://emn178.github.io/online-tools/sha256.html
 ### 声明
-本js库 完全免费开源:[开源地址][1] 开源协议采用：GPL v3.0
-注意检测概率不是100%，有概率逃过检测
-本库有可能会有问题，请提交issue让我进行解决
-如果你自己要调试，请在你网站url的后面跟上?key=允许的调试密码
+本js库 完全免费开源:[开源地址][1] 开源协议采用：GPL v3.0 <br>
+注意检测概率不是100%，有概率逃过检测 <br>
+本库有可能会有问题，请提交issue让我进行解决 <br>
+如果你自己要调试，请在你网站url的后面跟上?key=允许的调试密码 <br>
 
 #### 作者信息
-邮箱:mystery128@qq.com
-Github:[点击这里][2]
-Bilibili:[点击这里][3]
-QQ:2540797494
-个人博客：[点击这里][4]
+邮箱:mystery128@qq.com <br>
+Github:[点击这里][2] <br>
+Bilibili:[点击这里][3] <br>
+QQ:2540797494 <br>
+个人博客：[点击这里][4] <br>
 
 
   [1]: https://github.com/0x6768/ylib
