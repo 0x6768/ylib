@@ -71,7 +71,7 @@ function performKeyValidation(passwordHash) {
                 setInterval(function() {
                     if (isDevToolsOpen || checkDevToolsOpen()) {
                         console.log("Detected unauthorized debugging");
-                        document.writeln("检测到非法调试,请关闭DevTools,然后刷新网页<br>");
+                        document.writeln("<h2>检测到非法调试,请关闭DevTools,然后刷新网页</h2><br>");
                     }
                 }, 1000); // 每隔一秒检测一次
             } else {
